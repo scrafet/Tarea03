@@ -19,7 +19,7 @@ Este proyecto es una aplicación REST desarrollada con Flask que desarrolla la T
 
 Sigue los siguientes pasos para clonar y ejecutar el proyecto en tu máquina local.
 
-### **Paso 4: Inicializar la Base de Datos**
+### Inicializar la Base de Datos
 
 Dentro del entorno virtual, abre un terminal de Python para crear la base de datos:
 
